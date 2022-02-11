@@ -172,7 +172,7 @@
     "minimist": "^1.2.0",
     "mock-spawn": "^0.2.6",
     "nock": "^9.4.1",
-    "node-sass": "^4.7.2",
+    "node-sass": "^7.0.0",
     "nodemon": "^1.17.2",
     "npm-logical-tree": "^1.2.1",
     "prettier": "^1.11.1",
